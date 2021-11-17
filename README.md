@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @nolanraghu
 - 👀 I’m interested in web development, distributed computing, and big data
-- 🌱 I’m currently learning NLP (🤞🏽). 
-- 💞️ I’m looking to collaborate on some open-source DBMS.
 - 📫 nolanraghu@gmail.com
